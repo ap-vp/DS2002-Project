@@ -1,0 +1,22 @@
+[
+  {
+    "region": "southwest",
+    "preferred_provider": "BlueShield SW",
+    "network_tier": "Tier 1"
+  },
+  {
+    "region": "southeast",
+    "preferred_provider": "CarePlus SE",
+    "network_tier": "Tier 2"
+  },
+  {
+    "region": "northwest",
+    "preferred_provider": "Cascade Health NW",
+    "network_tier": "Tier 1"
+  },
+  {
+    "region": "northeast",
+    "preferred_provider": "Pinetree NE",
+    "network_tier": "Tier 3"
+  }
+]
